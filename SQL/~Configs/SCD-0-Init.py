@@ -6,7 +6,7 @@ from pyspark.sql.types import *
 # COMMAND ----------
 
 # Set GitHub URL
-url = 'https://raw.githubusercontent.com/cwilliams87/Blog/main/07-2021/sampleEmployees'
+url = 'https://raw.githubusercontent.com/mjaykumar/Blog-SCDs/working/Data/07-2023/sampleEmployees.txt'
 
 # COMMAND ----------
 
